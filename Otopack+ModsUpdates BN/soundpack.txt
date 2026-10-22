@@ -1,2 +1,2 @@
 NAME: otopack bn
-VIEW: Otopack BN
+VIEW: Otopack BN zeke edition
